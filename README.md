@@ -6,8 +6,9 @@
 
 
 ## Projects 
-
-
+- [My foundations Blog:](https://www.laura-richards.github.io/) This was my first project which I created as part of the foundations course at Dev Academy. You can find the repo for this [here](https://github.com/laura-richards/laura-richards.github.io) 
+- [What-can-we-eat](): This was my first solo fullstack CRUD app built using React and Typescript.
+- [Earth-Mates](): This was built by myself, Opelo, Mark, Hope and Rich as part of our final projects for the Dev Academy Bootcamp.
 
 
 ## Skills 
