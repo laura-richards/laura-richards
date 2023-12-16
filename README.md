@@ -1,7 +1,5 @@
 
-<img src="./images/LauraRichards.png" width=100%/>
-
-
+<img src="./images/LauraRichards(1).png" width=100%>
 <!--
 **laura-richards/laura-richards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
