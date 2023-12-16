@@ -12,6 +12,12 @@
 
 ## Skills 
 ### Tech
+- Programming Languages:  JavaScript, TypeScript, Node.js, Express.js, React.js
+- Web Development: HTML, CSS, React
+- Databases: SQLite, Knex.js  
+- Auth0 
+- vite 
+- Command line basics, GitFlow and GitHub
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -26,9 +32,15 @@
 
 
 ### Human 
+- Communication: solid experience base in working with others in a variety of environments, leading groups, teaching and collaborating with others. 
+- Problem-solving: ability to remain calm, think outside of the box and apply a variety of different techniques tech and other environments
+- Organization and time management skills 
+- Love of learning
 
+## Contact 
 
-
+- Email: laurarichardsnz@gmail.com
+- LinkedIn: [linkedin.com/in/laura-richards-a54871225/](https://www.linkedin.com/in/laura-richards-a54871225/)
 
 <!--
 Here are some ideas to get you started:
