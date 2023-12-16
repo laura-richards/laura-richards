@@ -1,7 +1,7 @@
 
 <img src="./images/LauraRichards(1).png" width=100%>
 
-
+I am a passionate and creative individual with a newfound love for web development. Web development is a great way for me to combine my creative and logical sides and I am excited to continue building meaningful products that can make an impact on others lives. 
 
 
 
