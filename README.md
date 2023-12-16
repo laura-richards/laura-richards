@@ -1,8 +1,21 @@
 
 <img src="./images/LauraRichards(1).png" width=100%>
-<!--
-**laura-richards/laura-richards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+---
+
+## Projects 
+
+
+---
+
+## Skills 
+
+---
+
+
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
