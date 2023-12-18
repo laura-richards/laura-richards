@@ -7,7 +7,7 @@ I am a passionate and creative individual with a newfound love for web developme
 
 ## Projects 
 - [My foundations Blog:](https://www.laura-richards.github.io/) This was my first project which I created as part of the foundations course at Dev Academy. You can find the repo for this [here](https://github.com/laura-richards/laura-richards.github.io) 
-- [What-can-we-eat](): This was my first solo fullstack CRUD app built using React and Typescript. 
+- [What-can-we-eat](https://github.com/laura-richards/What-can-we-eat): This was my first solo fullstack CRUD app built using React and Typescript. 
 - [Earth-Mates](https://github.com/laura-richards/Earth-Mates): This was built by myself, Opelo, Mark, Hope and Rich as part of our final projects for the Dev Academy Bootcamp. This project taught me a lot both about coding and working in a group, we created about 70% of this while peer programing. I was involved in both front- and back-end development of the project. I am proud of my work to set it up so that the events display in date order as this took some trouble shooting as initially the form had dates entered manually. I hope to continue working on this project to include some of our stretch goals.  
   
 
